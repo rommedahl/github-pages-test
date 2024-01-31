@@ -1,1 +1,3 @@
-# _config.yml
+theme: jekyll-theme-cayman
+title: Github Pages Test
+description: Github pages test of the cayman theme.
